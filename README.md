@@ -2,7 +2,7 @@
 
 This is a simple stopwatch project built with JavaScript. It allows users to start, stop, and reset the stopwatch.
 
-try the prolect from [here](https://esraasyam.github.io/StopWatchProject/)
+try from [here](https://esraasyam.github.io/StopWatchProject/)
 
 ## Usage
 
